@@ -1,10 +1,12 @@
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 <div align="center"><img src="https://github.com/smodole/smodole/blob/main/mypicspng2.png" with="342" height="342"></div>
-<h4 align="center"><b>SOLOMON, MUSA ODOLE</b> is an experienced IT Project Management Professional with current focus on DevOps</h4>
+<p><h4 align="center"><b>SOLOMON, MUSA ODOLE</b> is an experienced IT Project Management Professional with current focus on DevOps</h4></p>
+
+<img align="right" width="500" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smodole&label=Profile%20views&color=0e75b6&style=flat" alt="smodole" /> </p>
 
-<p align="left"> <a href="https://twitter.com/odolesm" target="blank"><img src="https://img.shields.io/twitter/follow/musaodole?logo=twitter&style=for-the-badge" alt="musaodole" /></a> </p>
+<p align="left"> <a href="https://twitter.com/odolesm" target="blank"><img src="https://img.shields.io/twitter/follow/odolesm?logo=twitter&style=for-the-badge" alt="odolesm" /></a> </p>
 
 - 🔭 I’m currently working on [DevOps Beginner Projects](https://pending.com)
 
@@ -26,8 +28,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/musaodole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musaodole" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/smodole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smodole" height="30" width="40" /></a>
+<a href="https://twitter.com/odolesm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="odolesm" height="30" width="40" /></a>
 <a href="https://kaggle.com/smodole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="smodole" height="30" width="40" /></a>
 <a href="https://fb.com/odole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="odole" height="30" width="40" /></a>
 <a href="https://instagram.com/smodole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smodole" height="30" width="40" /></a>
