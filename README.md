@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 <div align="center"><img src="https://github.com/smodole/smodole/blob/main/mypicspng2.png" with="342" height="342"></div>
-<h2 align="center"><b>SOLOMON, MUSA ODOLE</b> is an experienced IT Project Management Professional with current focus on DevOps</h2>
+<h4 align="center"><b>SOLOMON, MUSA ODOLE</b> is an experienced IT Project Management Professional with current focus on DevOps</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smodole&label=Profile%20views&color=0e75b6&style=flat" alt="smodole" /> </p>
 
-<p align="left"> <a href="https://twitter.com/musaodole" target="blank"><img src="https://img.shields.io/twitter/follow/musaodole?logo=twitter&style=for-the-badge" alt="musaodole" /></a> </p>
+<p align="left"> <a href="https://twitter.com/odolesm" target="blank"><img src="https://img.shields.io/twitter/follow/musaodole?logo=twitter&style=for-the-badge" alt="musaodole" /></a> </p>
 
 - 🔭 I’m currently working on [DevOps Beginner Projects](https://pending.com)
 
