@@ -1,6 +1,6 @@
-<h1 align="center">Hello World! 👋, I am Solomon, Musa Odole</h1>
+<h1 align="center">Welcome to My GitHub Profile!</h1>
 <div align="center"><img src="https://github.com/smodole/smodole/blob/main/mypicspng2.png" with="342" height="342"></div>
-<h3 align="center">An experienced IT Project Management Professional with a current focus on DevOps.</h3>
+<h2 align="center"><b>SOLOMON, MUSA ODOLE</b> is an experienced IT Project Management Professional with current focus on DevOps</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smodole&label=Profile%20views&color=0e75b6&style=flat" alt="smodole" /> </p>
 
