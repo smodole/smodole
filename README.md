@@ -2,7 +2,7 @@
 <div align="center"><img src="https://github.com/smodole/smodole/blob/main/mypicspng2.png" with="342" height="342"></div>
 <p><h4 align="center"><b>SOLOMON, MUSA ODOLE</b> is an experienced IT Project Management Professional with current focus on DevOps</h4></p>
 
-<img align="right" width="550" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" /> 
+<img align="right" width="350" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smodole&label=Profile%20views&color=0e75b6&style=flat" alt="smodole" /> </p>
 
